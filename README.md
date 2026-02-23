@@ -20,8 +20,8 @@ pip install -r requirements.txt
 2. Ejecutar: streamlit run app.py
 
 ## 🔗 Enlaces
-Repositorio GitHub: https://github.com/soph-iaa/python-fundamentals-app
-Aplicación Streamlit Cloud: https://python-fundamentals.streamlit.app/
+- Repositorio GitHub: https://github.com/soph-iaa/python-fundamentals-app
+- Aplicación Streamlit Cloud: https://python-fundamentals.streamlit.app/
 
 ## 👩‍💻 Autora
 Gianella Sophia Alarcón Bardales  
