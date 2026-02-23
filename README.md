@@ -47,5 +47,3 @@ Gianella Sophia Alarcón Bardales
 Especialización en Python for Analytics – Módulo 1  
 2026 – DMC Institute
 
-
-## Ejercicios incluidos
